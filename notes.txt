@@ -1,0 +1,6 @@
+1. To integrate controls, vpl, sunspot, prenode and rumble, (maybe hasura)
+*hasura helps to save data for vpl graphs
+
+Redo sunspot
+Shrinking to rearrange
+
